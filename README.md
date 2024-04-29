@@ -1,5 +1,2 @@
 # PowerBI_Capstone-Hotel_Booking-Analytics
-From this Project we are going to gain the insights of 
-Analyzing booking patterns, guest preferences, and factors influencing cancellations. 
-Using SQL and Excel we identify trends in booking sources and revenue. 
-also a Power BI dashboard for tracking booking trends and optimizing hotel operations.
+Our primary goal is to conduct EDA on the Hotel Booking dataset provided and derive valuable conclusions about hotel booking trends and how various factors interact to affect hotel bookings.
